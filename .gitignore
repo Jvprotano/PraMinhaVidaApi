@@ -1,0 +1,7 @@
+
+*.v2
+*.vsidx
+*.v2
+.vs/PraMinhaVidaApi/v17/.suo
+*.dll
+PraMinhaVidaApi/Properties/PublishProfiles/praminhavidaapi - Web Deploy.pubxml.user
